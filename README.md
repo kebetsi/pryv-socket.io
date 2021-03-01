@@ -10,4 +10,4 @@ Fetch dependencies: `npm i`
 
 1. add your credentials in `creds.json`
 2. run `node listener.js`
-3. run `main.js`
+3. run `node main.js`
